@@ -27,4 +27,11 @@
 	13. Static Local Functions
 	14. Recursion
 	15. Important Points to Remember about Methods
+5. Constructor
+	1. Understanding Constructor
+	2. Types of Constructor
+	3. Instance Constructors
+	4. Static Constructor
+	5. Constructor Overloading
+	6. Important Points to Remember about Constructors
 
