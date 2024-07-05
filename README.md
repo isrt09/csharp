@@ -90,6 +90,18 @@
 	3. Generic Constraints
 	4. Generic Methods
 	5. Generic Collection Classes And Its Advantages
+4. Type Conversion & System.Object class
+	1. Overview of Type Conversion
+	2. Implicit & Explicit Casting
+	3. Parse & TryParse
+	4. Conversion Methods
+	5. Important Points to Remember about Type Conversion
+	6. Boxing & Unboxing
+	7. Overview of System.Object class
+	8. Understanding & Overriding Methods of Object class
+	9. Important Points to Remember about Object class
+
+
 
 
 
