@@ -100,18 +100,18 @@
 	7. Overview of System.Object class
 	8. Understanding & Overriding Methods of Object class
 	9. Important Points to Remember about Object class
-7. Extension Methods & Pattern Matching
+5. Extension Methods & Pattern Matching
 	1. Extension Methods
 	2. Pattern Matching
 	3. Implicitly Typed Variables
 	4. Dynamically Typed Variables
 	5. Inner Classes
-8. Garbage Collection, Destructors, IDisposable 
+6. Garbage Collection, Destructors, IDisposable 
 	1. Garbage Collection & Generations
 	2. Destructors
 	3. IDisposable
 	4. Using Declaration
-9. Delegates & Events
+7. Delegates & Events
 	1. Creating Delegates
 	2. Multi Cast Delegates
 	3. Events
@@ -125,7 +125,7 @@
 	11. Expression Trees
 	12. Expression Bodied Members
 	13. Switch Expression
-10. Arrays
+8. Arrays
 	1. Creating Arrays
 	2. Arrays with 'for' loop
 	3. Arrays with 'foreach' loop
@@ -141,7 +141,7 @@
 	13. Array of Objects
 	14. CopyTo and Clone
 	15. Deep Copy
-11. 
+9. Collecions
 
 
 
