@@ -142,6 +142,38 @@
 	14. CopyTo and Clone
 	15. Deep Copy
 9. Collecions
+	1. Introduction to Collections
+	2. List **
+	3. Add, AddRange
+	4. Insert, InsertRange
+	5. Remove, RemoveAt, RemoveRange, RemoveAll, Clear
+	6. IndexOf, BinarySearch, Contains
+	7. Sort, Reverse
+	8. ToArray, ForEach
+	9. Exists, Find, FindIndex, FindLast, FindLastIndex, FindAll
+	10. ConvertAll
+	11. Dictionary
+	12. SortedList
+	13. Hashtable
+	14. HashSet
+	15. ArrayList
+	16. Stack
+	17. Queue
+	18. Collection of Objects
+	19. Object Relations
+	20. Collection Classes and Interfaces Hierarchy
+	21. IEnumerable and IEnumerator ***
+	22. Iterator and Yield Return
+	23. Custom Collections
+	24. Custom Collection with IEnumerable
+	25. Custom Collection with ICollection
+	26. Custom Collection with IList
+	27. IEquatable
+	28. IComparable
+	29. IComparer
+	30. Covariance
+	31. Contravariance
+
 
 
 
