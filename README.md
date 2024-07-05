@@ -100,7 +100,12 @@
 	7. Overview of System.Object class
 	8. Understanding & Overriding Methods of Object class
 	9. Important Points to Remember about Object class
-
+7. Extension Methods & Pattern Matching
+	1. Extension Methods
+	2. Pattern Matching
+	3. Implicitly Typed Variables
+	4. Dynamically Typed Variables
+	5. Inner Classes
 
 
 
