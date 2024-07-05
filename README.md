@@ -111,7 +111,20 @@
 	2. Destructors
 	3. IDisposable
 	4. Using Declaration
-
+9. Delegates & Events
+	1. Creating Delegates
+	2. Multi Cast Delegates
+	3. Events
+	4. Auto-Implemented Events
+	5. Anonymous Methods
+	6. Lambda Expressions ***
+	7. Func
+	8. Action
+	9. Predicate
+	10. EventHandler
+	11. Expression Trees
+	12. Expression Bodied Members
+	13. Switch Expression
 
 
 
