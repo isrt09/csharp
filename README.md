@@ -12,3 +12,19 @@
 	6. Readonly Fields
 	7. Local Constants
 4. Methods
+	1. Understanding Methods
+	2. Encapsulation 
+	3. Local Variables & Parameters
+	4. this keyword
+	5. Object reference as Arguments
+	6. Default Arguments
+	7. Named Arguments
+	8. Method Overloading
+	9. Parameter Modifiers - Default
+	10. Parameter Modifiers - ref, out, params
+	11. ref Returns
+	12. Local Functions
+	13. Static Local Functions
+	14. Recursion
+	15. Important Points to Remember about Methods
+
