@@ -34,4 +34,14 @@
 	4. Static Constructor
 	5. Constructor Overloading
 	6. Important Points to Remember about Constructors
+6. Properties & Indexers
+	1. Creating Properties
+	2. Readonly & Writeonly Properties
+	3. Auto-Properties with Accessor Accessibility
+	4. Auto-Implemented Property Initializers
+	5. Important Points to Remember about Properties
+	6. Creating Indexers
+	7. Indexer Overloading
+
+
 
