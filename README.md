@@ -1,4 +1,4 @@
-# Demostration for Programming in C#
+# Demonstration for Programming in C#
 
 ## Basic Level
 1. Understanding OOP
