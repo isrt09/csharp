@@ -42,6 +42,16 @@
 	5. Important Points to Remember about Properties
 	6. Creating Indexers
 	7. Indexer Overloading
+7. Inheritence, Hiding, Overriding
+	1. Creating Inheritance
+	2. Types of Inheritance
+	3. The 'base' Keyword
+	4. Parent Class's Constructor
+	5. Method Hiding
+	6. Method Overriding
+	7. Sealed Classes
+	8. Sealed Methods
+
 
 
 
