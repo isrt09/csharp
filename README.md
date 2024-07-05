@@ -106,6 +106,11 @@
 	3. Implicitly Typed Variables
 	4. Dynamically Typed Variables
 	5. Inner Classes
+8. Garbage Collection, Destructors, IDisposable 
+	1. Garbage Collection & Generations
+	2. Destructors
+	3. IDisposable
+	4. Using Declaration
 
 
 
