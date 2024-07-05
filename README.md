@@ -84,7 +84,12 @@
 ## Intermediate Level
 1. Exception Handling
 2. Handling Null   
-
+3. Generics
+	1. Generic Classes
+	2. Multiple Generic Parameters
+	3. Generic Constraints
+	4. Generic Methods
+	5. Generic Collection Classes And Its Advantages
 
 
 
