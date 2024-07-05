@@ -81,6 +81,9 @@
 	3. Understanding Structures (vs) Class Practically
 	4. Readonly Structures
 	5. Primitive Types as Structures
+## Intermediate Level
+1. Exception Handling
+2. Handling Null   
 
 
 
