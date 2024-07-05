@@ -61,7 +61,7 @@
 	7. Multiple Inheritance with Interfaces
 	8. Interface Inheritance
 	9. Explicit Interface Implementation
-9. Namespace & Static
+9. Namespaces & Static
 	1. Creating Namespaces
 	2. Nested Namespaces
 	3. Importing Namespaces
