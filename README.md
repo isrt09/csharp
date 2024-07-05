@@ -66,9 +66,15 @@
 	2. Nested Namespaces
 	3. Importing Namespaces
 	4. Creating Using Alias
-	5. Static Keyword(Class - Field - Constructor - Property - Method)
+	5. Static Keyword (Class - Field - Constructor - Property - Method)
 	6. Using Static	
-
+10. Partial, Static, Sealed, Inner, Abstract & Collection Classes
+	1. Partial Classes & Methods
+	2. Static Classes & Methods
+	3. Sealed Classes & Methods
+	4. Abstract Classes & Methods
+	5. Inner Class
+	6. Enumerations (Enum)
 
 
 
