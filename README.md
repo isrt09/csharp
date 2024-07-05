@@ -75,6 +75,12 @@
 	4. Abstract Classes & Methods
 	5. Inner Class
 	6. Enumerations (Enum)
+11. Structure
+	1. Creating Structures
+	2. Structures with Constructors
+	3. Understanding Structures (vs) Class Practically
+	4. Readonly Structures
+	5. Primitive Types as Structures
 
 
 
