@@ -5,10 +5,8 @@ using StructureProgram;
     {
         static void Main(string[] args)
         {
-            Product product = new Product(); // This is structure instance; not object.
-            product.ProductID = 1001;
-            product.ProductName = "Laptop";
-
+            Product product = new Product(2001, "iPhone 7S");  // This is structure instance; not object.
+            
             Console.WriteLine("Product ID :"+ product.ProductID);
             Console.WriteLine("Product Name :"+ product.ProductName);
         }

@@ -5,6 +5,13 @@ namespace StructureProgram
         private int _productID;
         private string  _productName;
 
+        // Struct with constructor
+        public Product(int productID, string productName)
+        {
+            _productID = productID;
+            _productName = productName;
+        }
+
         public int ProductID
         {
             set { _productID = value; }
