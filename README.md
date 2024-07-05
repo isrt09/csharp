@@ -125,6 +125,23 @@
 	11. Expression Trees
 	12. Expression Bodied Members
 	13. Switch Expression
+10. Arrays
+	1. Creating Arrays
+	2. Arrays with 'for' loop
+	3. Arrays with 'foreach' loop
+	4. Overview of System.Array class
+	5. System.Array.IndexOf
+	6. System.Array.BinarySearch
+	7. System.Array.Clear
+	8. System.Array.Resize
+	9. System.Array.Sort
+	10. System.Array.Reverse
+	11. Mult-Dim Arrays
+	12. Jagged Arrays
+	13. Array of Objects
+	14. CopyTo and Clone
+	15. Deep Copy
+
 
 
 
