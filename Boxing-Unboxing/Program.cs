@@ -1,11 +1,7 @@
 namespace BoxingUnboxing
 {
     class Program
-    {
-        class Product
-        {
-            public int _productCode { get; set; }
-        }
+    {        
         static void Main(string[] args)
         {
             //  reference Type to value Type (Unboxing)
