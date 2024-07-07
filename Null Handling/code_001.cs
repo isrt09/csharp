@@ -4,9 +4,9 @@ namespace NullHandling
     {
         // fields are value type which is non-nullable
         public int drivingLicenseNo; 
-        public int tradeLicenseNo;
-
-        public int mobileNumber;
+        // make it nullable 
+        public Nullable<int> tradeLicenseNo;        
+        public Nullable<int> mobileNumber;
     }
 
     class Program
@@ -16,8 +16,16 @@ namespace NullHandling
             Person person = new Person(){
                 drivingLicenseNo = 100111216,
                 tradeLicenseNo = 10011985,
-                mobileNumber = null, // This is compile error due to non-nullable issue
+                mobileNumber = null, // fixed compile error
             };
+
+            if(person.tradeLicenseNo.HasValue)
+            {
+                if(person.mobileNumber == null)
+                {
+                    Console.WriteLine("Person Driving License No : {0}", person.drivingLicenseNo.ToString());
+                }
+            }
         }
     }
 }
