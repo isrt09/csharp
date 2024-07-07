@@ -26,6 +26,11 @@ namespace NullHandling
                     Console.WriteLine("Person Driving License No : {0}", person.drivingLicenseNo.ToString());
                 }
             }
+            // add validations
+            if(person.tradeLicenseNo.HasValue && person.mobileNumber == null)
+            {
+                Console.WriteLine($"Person Trade License No : {person.tradeLicenseNo.Value}");
+            }
         }
     }
 }
