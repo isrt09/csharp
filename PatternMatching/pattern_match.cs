@@ -32,6 +32,12 @@ namespace PatternMatching
             // Traditional way typecast e.g. Downcasting or Upcasting
             Product product = (Product) customer; 
             Console.WriteLine(product.CustomerName);
+
+            // Modern way typecast like as Patern Matching
+            if(customer is Product _product) 
+            {
+                Console.WriteLine(_product.CustomerName);
+            }
         }
     }
 }
