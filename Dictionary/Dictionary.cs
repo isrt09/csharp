@@ -29,6 +29,13 @@ namespace DictionaryCollections
                 Console.WriteLine($"Product Code : {product.Key}, Product Name : {product.Value}");
             }
 
+            // print dictionary only all keys
+            Dictionary<int,string>.KeyCollection keys = products.Keys;
+            foreach (int item in keys)
+            {
+                Console.WriteLine(item);
+            }
+
             // Check key or values exists or not
             string? result;
             
