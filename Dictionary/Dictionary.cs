@@ -14,6 +14,9 @@ namespace DictionaryCollections
                 {103, "iPhone S6"}
             };
 
+            // Add or Insert more key, values
+            products.Add(104,"Laptop Dell Inspiron N1344");
+            
             // print dictonary values
             foreach (KeyValuePair<int,string> product in products)            
             {
