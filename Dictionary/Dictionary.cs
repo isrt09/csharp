@@ -19,7 +19,10 @@ namespace DictionaryCollections
 
             // Update key, values
             products[104] = "Walton 27 Inch FHD Monitor";
-            
+
+            // Remove key, values
+            products.Remove(104);
+
             // print dictonary values
             foreach (KeyValuePair<int,string> product in products)            
             {
