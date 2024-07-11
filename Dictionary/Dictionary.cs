@@ -28,6 +28,18 @@ namespace DictionaryCollections
             {
                 Console.WriteLine($"Product Code : {product.Key}, Product Name : {product.Value}");
             }
+
+            // Check key or values exists or not
+            string? result;
+            
+            if(products.TryGetValue(108, out result))
+            {
+                Console.WriteLine(result);
+            }
+            else
+            {
+                Console.WriteLine("Sorry, Data Not Found!");
+            }
         }
     }
 }
