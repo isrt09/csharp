@@ -14,6 +14,9 @@ namespace StackCollections
             numbers.Push(30);
             numbers.Push(40);
 
+            // remove value
+            numbers.Pop();
+
             // print all values in stack collections
             foreach (int number in numbers)
             {
