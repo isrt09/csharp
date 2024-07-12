@@ -6,7 +6,9 @@ namespace StackCollections
         static void Main(string[] args)
         {
             // define stacks 
-            Stack<int> numbers = new Stack<int>();            
+            Stack<int> numbers = new Stack<int>(); 
+
+            // stack common functions : Pop(), Push(), Peek(), Contains(), Clear()           
 
             // add values
             numbers.Push(10);
