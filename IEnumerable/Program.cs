@@ -26,6 +26,29 @@ namespace IEnumerable
         }
     }
 
+    //custom product collection class
+    class ProductList : IEnumerable
+    {
+        private List<Product> products;
+        public IEnumerator GetEnumerator()
+        {
+            yield return products[0];
+            yield return products[1];
+            yield return products[2];
+        }
+
+        public void Add(Product _product)
+        {
+            products = new List<Product>()
+            { 
+                new Product(){ProductID = 101, ProductName = "Dell"},
+                new Product(){ProductID = 201, ProductName = "Asus"},
+                new Product(){ProductID = 301, ProductName = "Sumsung"},
+            };
+            products.Add(_product);
+        }
+    }
+
     // create product 
     class Product
     {
