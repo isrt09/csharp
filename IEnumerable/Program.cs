@@ -73,8 +73,21 @@ namespace IEnumerable
             {
                 Console.WriteLine(item.CustomerName);
             }
-                                    
-            Product product = new Product();                        
+
+            Product product = new Product();   
+            ProductList productList = new ProductList();            
+            productList.Add(product);
+
+            IEnumerator enumerator = productList.GetEnumerator();            
+
+            enumerator.MoveNext();
+            Console.WriteLine(((Product)enumerator.Current).ProductName);
+
+            enumerator.MoveNext();
+            Console.WriteLine(((Product)enumerator.Current).ProductName);
+            
+            enumerator.MoveNext();
+            Console.WriteLine(((Product)enumerator.Current).ProductName);                     
         }
     }
 }
