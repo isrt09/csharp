@@ -61,7 +61,19 @@ namespace IEnumerable
         static void Main(string[] args)
         {
             // create objects
-            Customer customer = new Customer();                        
+            Customer customer = new Customer();
+            CustomerLists customerLists = new CustomerLists()
+            {
+                new Customer(){CustomerID = 101, CustomerName = "James"},
+                new Customer(){CustomerID = 201, CustomerName = "Jones"},
+                new Customer(){CustomerID = 301, CustomerName = "Jameson"},
+            };
+            customerLists.Add(customer);
+            foreach (Customer item in customerLists)
+            {
+                Console.WriteLine(item.CustomerName);
+            }
+                                    
             Product product = new Product();                        
         }
     }
