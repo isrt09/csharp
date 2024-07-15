@@ -141,7 +141,7 @@
 	13. Array of Objects
 	14. CopyTo and Clone
 	15. Deep Copy
-9. Collecions
+9. Collections
 	1. Introduction to Collections
 	2. List **
 	3. Add, AddRange
